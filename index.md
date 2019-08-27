@@ -11,18 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<This is an experimental change to the website.> 
-  <If this change is saved, the experiment has been completed successfully.>
-    <If it doesn't, well, tough luck.>
-# Header 1
-## Header 2
-### Header 3
+# Darren's First CS193 Homework
 
-                 <Looks like the changes haven't been made.>
-      I shall now try to make changes without the symbols.
-      Let's see if it works.
-- Bulleted
-- List
+- I'll get to learn about tools that will help me in the CS field.
+- It's a fun class so far.
+- The instructors are quite chill and helpful.
+- I think it's going to be a great semester.
+
 
 1. Numbered
 2. List
